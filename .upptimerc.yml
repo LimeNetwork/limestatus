@@ -15,10 +15,14 @@ sites:
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 3
     url: $SERVER_1
+    check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
 
 notifications:
   - type: discord
+
+i18n:
+  footer: "Bu sayfa Upptime kullanılarak LimeNetwork taraından sevgiyle oluşturuldu."
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
