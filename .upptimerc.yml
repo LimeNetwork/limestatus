@@ -25,7 +25,7 @@ status-website:
   cname: status.craftlime.net
   # baseUrl: /your-repo-name
   logoUrl: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
-  name: LimeNetwork - Durum
+  name: LimeNetwork - Sunucu Durumu!
   introTitle: "**LimeNetwork** CraftLime sunucu durum sayfası."
   introMessage: Minecraft sunucularımızın durumunu bu sayfadan öğrenebilirsiniz.
   theme: dark
