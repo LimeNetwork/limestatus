@@ -8,6 +8,11 @@ sites:
     port: $PROXY_PORT
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Proxy (Mobil Girişler)
+    url: $SERVER_3
+    port: $BEDROCK_PORT
+    check: "udp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 1
     url: $SERVER_1
     port: $TPORT_1
