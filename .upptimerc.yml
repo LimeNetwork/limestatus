@@ -19,6 +19,9 @@ sites:
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
 
+notifications:
+  - type: discord
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -36,66 +39,6 @@ status-website:
       href: https://craftlime.net
     - title: Haritalar
       href: http://map.craftlime.net
-      
- i18n:
-  activeIncidents: "Aktif Problemler"
-  allSystemsOperational: "Tüm sistemler çalışır durumda."
-  incidentReport: "#$NUMBER Problem raporu →"
-  activeIncidentSummary: "$DATE Tarihinde $POSTS paylaşımları ile açıldı."
-  incidentTitle: "$NUMBER Problem Detayı"
-  incidentDetails: "Problem Detayı"
-  incidentFixed: "Çözüldü"
-  incidentOngoing: "Devam Ediyor"
-  incidentOpenedAt: "Başladı:"
-  incidentClosedAt: "Bitti:"
-  incidentViewOnGitHub: "Görüntüle ve Github ile abone ol."
-  incidentCommentSummary: "$DATE tarihinde $AUTHOR tarafından paylaşıldı."
-  incidentBack: "← Tüm problemlere geri dön"
-  pastIncidents: "Geçmiş problemler"
-  pastIncidentsResolved: "$MINUTES dakikada $POSTS paylaşımları ile çözüldü."
-  liveStatus: "Güncel Durum"
-  overallUptime: "Genel Çalışma Süresi: $UPTIME"
-  overallUptimeTitle: "Genel Çalışma"
-  averageResponseTime: "Ortalama yanıt süresi: $TIMEms"
-  averageResponseTimeTitle: "Ortalama Yanıt"
-  sevelDayResponseTime: "7 Günlük Yanıt Süresi"
-  responseTimeMs: "Yanıt Süresi (ms)"
-  up: "Aktif"
-  down: "Deaktif"
-  degraded: "Bozuk"
-  ms: "ms"
-  loading: "Yükleniyor"
-  responseTime: "Yanıt Süresi"
-  responseTimeDay: "24 saatlik yanıt süresi"
-  responseTimeWeek: "7 günlük yanıt süresi"
-  responseTimeMonth: "30 günlük yanıt süresi"
-  responseTimeYear: "1 yıllık yanıt süresi"
-  uptime: "Tüm Zamanların Çalışma Süresi"
-  uptimeDay: "24 saatlik çalışma süresi"
-  uptimeWeek: "7 günlük çalışma süresi"
-  uptimeMonth: "30 günlük çalışma süresi"
-  uptimeYear: "1 yıllık çalışma süresi"
-  navGitHub: "GitHub"
-  footer: "Bu sayfa Upptime kullanılarak LimeNetwork taraından sevgiyle oluşturuldu."
-  rateLimitExceededTitle: "Limit Aşıldı"
-  rateLimitExceededIntro: "1 saatte atabileceğiniz maksimum isteği attınız. Lütfen 1 saat tamamlandığında tekrar erişmeye çalışınız."
-  rateLimitExceededWhatDoesErrorMean: "Bu hata ne anlama geliyor?"
-  rateLimitExceededErrorMeaning: "Bu sistem sunucu durumlarını kontrol etmek için Github API servisini kullanır. Github IP başına saatlik 60 istek limiti verir."
-  rateLimitExceededErrorHowCanFix: "Nasıl düzeltebilirim?"
-  rateLimitExceededErrorFix: "Limitlerin yenilenmesi için 1 saat bekleyebilirsin."
-  errorTitle: "Bir Hata Oluştu!"
-  errorIntro: "Son sunucu durumlarını oluştururken bir hata oluştu!"
-  errorText: "Birkaç dakika sonra tekrar deneyiniz!"
-  errorHome: "Anasayfaya git"
-  pastScheduledMaintenance: "Geçmiş Planlı Bakımlar"
-  scheduledMaintenance: "Planlı Bakımlar"
-  scheduledMaintenanceSummaryStarted: "$DATE tarihinde $DURATION dakika için bakım başlatıldı."
-  scheduledMaintenanceSummaryStarts: "$DATE tarihinde $DURATION dakika için bakım başlayacak."
-  startedAt: "Başladı: "
-  startsAt: "Başlayacak: "
-  duration: "Süre"
-  durationMin: "$DURATION dakika"
-  incidentCompleted: "Tamamlandı"
-  incidentScheduled: "Planlandı"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
