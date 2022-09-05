@@ -25,6 +25,16 @@ down: Deaktif
 degraded: Bozuk
 ms: ms
 loading: Yükleniyor
+responseTime: "Yanıt Süresi"
+responseTimeDay: "24 saatlik yanıt süresi"
+responseTimeWeek: "7 günlük yanıt süresi"
+responseTimeMonth: "30 günlük yanıt süresi"
+responseTimeYear: "1 yıllık yanıt süresi"
+uptime: "Tüm Zamanların Çalışma Süresi"
+uptimeDay: "24 saatlik çalışma süresi"
+uptimeWeek: "7 günlük çalışma süresi"
+uptimeMonth: "30 günlük çalışma süresi"
+uptimeYear: "1 yıllık çalışma süresi"
 navGitHub: GitHub
 footer: Bu sayfa Upptime kullanılarak LimeNetwork taraından sevgiyle oluşturuldu.
 rateLimitExceededTitle: Limit Aşıldı
