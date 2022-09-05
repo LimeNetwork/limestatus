@@ -15,8 +15,6 @@ sites:
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 3
     url: $SERVER_1
-    port: $TPORT_3
-    check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
 
 notifications:
