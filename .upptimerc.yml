@@ -11,7 +11,7 @@ sites:
   - name: Proxy (Mobil Girişler)
     url: $SERVER_3
     port: $BEDROCK_PORT
-    check: "udp-ping"
+    check: "udp-check"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 1
     url: $SERVER_1
@@ -47,7 +47,7 @@ i18n:
   incidentCommentSummary: "$DATE tarihinde $AUTHOR tarafından paylaşıldı."
   incidentBack: "← Tüm problemlere geri dön"
   pastIncidents: "Geçmiş problemler"
-  pastIncidentsResolved: "$MINUTES dakikada $POSTS paylaşımları ile çözüldü."
+  pastIncidentsResolved: "$MINUTES dakikada $POSTS bildirim ile çözüldü."
   liveStatus: "Güncel Durum"
   overallUptime: "Genel Çalışma Süresi: $UPTIME"
   overallUptimeTitle: "Genel Çalışma"
