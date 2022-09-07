@@ -4,9 +4,9 @@
     "url": "$SERVER_3",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "ana-girisler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 189,
     "timeMonth": 189,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-07": 0
+    }
   },
   {
     "name": "Towny 1",
@@ -59,11 +61,11 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-3",
     "status": "up",
-    "uptime": "96.98%",
+    "uptime": "97.27%",
     "uptimeDay": "98.42%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
     "time": 178,
     "timeDay": 181,
     "timeWeek": 178,
