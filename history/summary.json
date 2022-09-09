@@ -4,9 +4,9 @@
     "url": "$SERVER_3",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "ana-girisler",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "99.88%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {
+      "2022-09-09": 0,
       "2022-09-08": 16,
       "2022-09-07": 62
     }
@@ -26,18 +27,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-1",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.39%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.39%",
     "time": 164,
     "timeDay": 149,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-09-09": 0,
+      "2022-09-09": 17,
       "2022-09-07": 20
     }
   },
@@ -47,18 +48,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.71%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 169,
     "timeDay": 149,
     "timeWeek": 169,
     "timeMonth": 169,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-09-09": 0
+      "2022-09-09": 17
     }
   },
   {
@@ -67,18 +68,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-3",
     "status": "down",
-    "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "98.60%",
+    "uptime": "98.32%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
     "time": 168,
     "timeDay": 149,
     "timeWeek": 168,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-09-09": 0,
+      "2022-09-09": 17,
       "2022-09-07": 23,
       "2022-09-05": 62
     }
