@@ -23,6 +23,11 @@ sites:
     port: $TPORT_3
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: SkyBlock
+    url: $SERVER_4
+    port: $SB_PORT1
+    check: "tcp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
 
 notifications:
   - type: discord
