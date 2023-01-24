@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-01-24": 214,
+      "2023-01-24": 225,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-01-24": 214,
+      "2023-01-24": 225,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -229,10 +229,10 @@
     "url": "$SERVER_1",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-2",
-    "status": "up",
+    "status": "down",
     "uptime": "41.53%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.03%",
+    "uptimeDay": "0.77%",
+    "uptimeWeek": "0.11%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "41.53%",
     "time": 222,
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-01-24": 211,
+      "2023-01-24": 214,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -349,7 +349,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-01-24": 214,
+      "2023-01-24": 225,
       "2023-01-23": 1419,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -459,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2023-01-24": 198,
+      "2023-01-24": 209,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
