@@ -5,18 +5,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "ana-girisler",
     "status": "down",
-    "uptime": "37.26%",
+    "uptime": "37.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.12%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.26%",
+    "uptimeYear": "37.25%",
     "time": 209,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-02-12": 1032,
+      "2023-02-12": 1049,
       "2023-02-11": 1428,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-02-12": 1001,
+      "2023-02-12": 1019,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-02-12": 995,
+      "2023-02-12": 1013,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1428,
@@ -406,7 +406,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-02-12": 1032,
+      "2023-02-12": 1049,
       "2023-02-11": 1428,
       "2023-02-10": 1425,
       "2023-02-09": 1390,
@@ -523,12 +523,12 @@
     "url": "$SERVER_4",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "sky-block",
-    "status": "up",
-    "uptime": "14.94%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "1.81%",
+    "status": "down",
+    "uptime": "15.06%",
+    "uptimeDay": "1.22%",
+    "uptimeWeek": "1.98%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.94%",
+    "uptimeYear": "15.06%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
@@ -667,7 +667,7 @@
       "2022-10-06": 1416,
       "2022-10-05": 1440,
       "2022-10-04": 1301,
-      "2022-10-03": 686
+      "2022-10-03": 451
     }
   }
 ]
