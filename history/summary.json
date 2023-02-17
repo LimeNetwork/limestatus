@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-02-17": 815,
+      "2023-02-17": 827,
       "2023-02-16": 1416,
       "2023-02-15": 1408,
       "2023-02-14": 1440,
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-02-17": 815,
+      "2023-02-17": 827,
       "2023-02-16": 1400,
       "2023-02-15": 1424,
       "2023-02-14": 1440,
@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-02-17": 815,
+      "2023-02-17": 827,
       "2023-02-16": 1412,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
@@ -411,7 +411,7 @@
     "slug": "towny-3",
     "status": "down",
     "uptime": "36.54%",
-    "uptimeDay": "3.67%",
+    "uptimeDay": "3.34%",
     "uptimeWeek": "2.46%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "36.54%",
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-02-17": 786,
+      "2023-02-17": 797,
       "2023-02-16": 1294,
       "2023-02-15": 1406,
       "2023-02-14": 1440,
@@ -543,12 +543,12 @@
     "url": "$SERVER_4",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "sky-block",
-    "status": "up",
-    "uptime": "25.67%",
-    "uptimeDay": "8.57%",
-    "uptimeWeek": "3.98%",
-    "uptimeMonth": "0.34%",
-    "uptimeYear": "25.67%",
+    "status": "down",
+    "uptime": "25.84%",
+    "uptimeDay": "9.35%",
+    "uptimeWeek": "4.09%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "25.84%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
@@ -674,7 +674,7 @@
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
-      "2022-10-21": 707
+      "2022-10-21": 333
     }
   }
 ]
