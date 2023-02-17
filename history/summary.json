@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-02-17": 1278,
+      "2023-02-17": 1301,
       "2023-02-16": 1416,
       "2023-02-15": 1408,
       "2023-02-14": 1440,
@@ -141,18 +141,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-1",
     "status": "down",
-    "uptime": "36.30%",
+    "uptime": "36.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.85%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.30%",
+    "uptimeYear": "36.29%",
     "time": 219,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-02-17": 1306,
+      "2023-02-17": 1330,
       "2023-02-16": 1400,
       "2023-02-15": 1424,
       "2023-02-14": 1440,
@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-02-17": 1289,
+      "2023-02-17": 1312,
       "2023-02-16": 1412,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-02-17": 1233,
+      "2023-02-17": 1257,
       "2023-02-16": 1294,
       "2023-02-15": 1406,
       "2023-02-14": 1440,
@@ -543,12 +543,12 @@
     "url": "$SERVER_4",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "sky-block",
-    "status": "up",
-    "uptime": "30.62%",
-    "uptimeDay": "8.98%",
-    "uptimeWeek": "4.25%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "30.62%",
+    "status": "down",
+    "uptime": "30.85%",
+    "uptimeDay": "10.58%",
+    "uptimeWeek": "4.48%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "30.85%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
@@ -666,7 +666,7 @@
       "2022-11-01": 1416,
       "2022-10-31": 1440,
       "2022-10-30": 1378,
-      "2022-10-29": 772
+      "2022-10-29": 279
     }
   }
 ]
