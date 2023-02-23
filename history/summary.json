@@ -41,18 +41,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-1",
     "status": "down",
-    "uptime": "35.11%",
+    "uptime": "35.07%",
     "uptimeDay": "0.92%",
     "uptimeWeek": "0.35%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.11%",
+    "uptimeYear": "35.07%",
     "time": 219,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-02-23": 776,
+      "2023-02-23": 1097,
       "2023-02-22": 1427,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -184,18 +184,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-2",
     "status": "down",
-    "uptime": "34.24%",
+    "uptime": "34.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.17%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.24%",
+    "uptimeYear": "34.20%",
     "time": 222,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-02-23": 776,
+      "2023-02-23": 1097,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -322,18 +322,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "towny-3",
     "status": "down",
-    "uptime": "35.43%",
+    "uptime": "35.38%",
     "uptimeDay": "0.99%",
-    "uptimeWeek": "4.62%",
+    "uptimeWeek": "4.39%",
     "uptimeMonth": "0.68%",
-    "uptimeYear": "35.43%",
+    "uptimeYear": "35.38%",
     "time": 228,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2023-02-23": 776,
+      "2023-02-23": 1097,
       "2023-02-22": 1425,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -473,7 +473,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 26
+      "2023-02-23": 347
     }
   },
   {
@@ -482,18 +482,18 @@
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "sky-block",
     "status": "down",
-    "uptime": "33.76%",
+    "uptime": "33.71%",
     "uptimeDay": "1.85%",
-    "uptimeWeek": "4.19%",
+    "uptimeWeek": "3.91%",
     "uptimeMonth": "0.88%",
-    "uptimeYear": "33.76%",
+    "uptimeYear": "33.71%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2023-02-23": 764,
+      "2023-02-23": 1085,
       "2023-02-22": 1405,
       "2023-02-21": 1440,
       "2023-02-20": 1415,
@@ -611,19 +611,19 @@
     "url": "$CREATIVE_1",
     "icon": "https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png",
     "slug": "creative",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-02-23": 24
+      "2023-02-23": 340
     }
   },
   {
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 22
+      "2023-02-23": 343
     }
   },
   {
@@ -663,7 +663,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 21
+      "2023-02-23": 342
     }
   },
   {
@@ -683,7 +683,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-23": 20
+      "2023-02-23": 340
     }
   }
 ]
