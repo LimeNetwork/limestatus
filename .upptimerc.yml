@@ -140,6 +140,8 @@ status-website:
       href: https://craftlime.net
     - title: Haritalar
       href: http://map.craftlime.net
+    - title: Market
+      href: https://craftlime.net/magaza
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
