@@ -3,29 +3,59 @@ owner: limenetwork # Your GitHub organization or username, where this repository
 repo: limestatus # The name of this repository
 
 sites:
-  - name: Ana Girisler
-    url: $SERVER_3
-    port: $PROXY_PORT
+  - name: Ana Girisler (Java)
+    url: $VELOCITY
+    port: 25565
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Ana Girisler (Bedrock)
+    url: $VELOCITY
+    port: 19132
+    check: "udp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 1
-    url: $SERVER_1
+    url: $TOWNY_1
     port: $TPORT_1
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 2
-    url: $SERVER_1
+    url: $TOWNY_2
     port: $TPORT_2
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: Towny 3
-    url: $SERVER_2
+    url: $TOWNY_3
     port: $TPORT_3
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Towny 4
+    url: $TOWNY_4
+    port: $TPORT_4
+    check: "tcp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
   - name: SkyBlock
-    url: $SERVER_4
+    url: $SKYBLOCK_1
     port: $SB_PORT1
+    check: "tcp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Creative
+    url: $CREATIVE_1
+    port: $C_PORT1
+    check: "tcp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Lobi
+    url: $LOBBY_1
+    port: $LB_1
+    check: "tcp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Çakma Lobi
+    url: $CLOBBY_1
+    port: $CLB_1
+    check: "tcp-ping"
+    icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
+  - name: Survival (SMP)
+    url: $SURVIVAL_1
+    port: $SMP_1
     check: "tcp-ping"
     icon: https://craftlime.net/apps/main/public/assets/img/extras/header-logo.png
 
